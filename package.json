@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing-afternoon",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "cart.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdunford/unit-testing-afternoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdunford/unit-testing-afternoon/issues"
+  },
+  "homepage": "https://github.com/rdunford/unit-testing-afternoon#readme",
+  "dependencies": {
+    "jest": "^23.0.0-alpha.0"
+  }
+}
